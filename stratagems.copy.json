@@ -1,0 +1,312 @@
+[
+    {
+        "name": "LIFT-850 Jump Pack",
+        "type": "Supply: Backpacks",
+        "sequence": "DUUDU"
+    },
+    {
+        "name": "B-1 Supply Pack",
+        "type": "Supply: Backpacks",
+        "sequence": "DLDUUD"
+    },
+    {
+        "name": "AX/LAS-5 \"Guard Dog\" Rover",
+        "type": "Supply: Backpacks",
+        "sequence": "DULURR"
+    },
+    {
+        "name": "SH-20 Ballistic Shield Backpack",
+        "type": "Supply: Backpacks",
+        "sequence": "DLDDUL"
+    },
+    {
+        "name": "SH-32 Shield Generator Pack",
+        "type": "Supply: Backpacks",
+        "sequence": "DULRLR"
+    },
+    {
+        "name": "AX/AR-23 \"Guard Dog\"",
+        "type": "Supply: Backpacks",
+        "sequence": "DULURD"
+    },
+    {
+        "name": "MG-43 Machine Gun",
+        "type": "Supply: Support Weapons",
+        "sequence": "DLDUR"
+    },
+    {
+        "name": "APW-1 Anti-Materiel Rifle",
+        "type": "Supply: Support Weapons",
+        "sequence": "DLRUD"
+    },
+    {
+        "name": "M-105 Stalwart",
+        "type": "Supply: Support Weapons",
+        "sequence": "DLDUUL"
+    },
+    {
+        "name": "EAT-17 Expendable Anti-tank",
+        "type": "Supply: Support Weapons",
+        "sequence": "DDLUR"
+    },
+    {
+        "name": "GR-8 Recoilless Rifle",
+        "type": "Supply: Support Weapons",
+        "sequence": "DLRRL"
+    },
+    {
+        "name": "FLAM-40 Flamethrower",
+        "type": "Supply: Support Weapons",
+        "sequence": "DLUDU"
+    },
+    {
+        "name": "AC-8 Autocannon",
+        "type": "Supply: Support Weapons",
+        "sequence": "DLDUUR"
+    },
+    {
+        "name": "MG-206 Heavy Machine Gun",
+        "type": "Supply: Support Weapons",
+        "sequence": "DLUDD"
+    },
+    {
+        "name": "RS-422 Railgun",
+        "type": "Supply: Support Weapons",
+        "sequence": "DRDULR"
+    },
+    {
+        "name": "FAF-14 SPEAR Launcher",
+        "type": "Supply: Support Weapons",
+        "sequence": "DDUDD"
+    },
+    {
+        "name": "GL-21 Grenade Launcher",
+        "type": "Supply: Support Weapons",
+        "sequence": "DLULD"
+    },
+    {
+        "name": "LAS-98 Laser Cannon",
+        "type": "Supply: Support Weapons",
+        "sequence": "DLDUL"
+    },
+    {
+        "name": "ARC-3 Arc Thrower",
+        "type": "Supply: Support Weapons",
+        "sequence": "DRDULL"
+    },
+    {
+        "name": "LAS-99 Quasar Cannon",
+        "type": "Supply: Support Weapons",
+        "sequence": "DDULR"
+    },
+    {
+        "name": "RL-77 Airburst Rocket Launcher",
+        "type": "Supply: Support Weapons",
+        "sequence": "DUULR"
+    },
+    {
+        "name": "EXO-45 Patriot Exosuit",
+        "type": "Suply: Other",
+        "sequence": "LDRULDD"
+    },
+    {
+        "name": "Reinforce",
+        "type": "Mission Stratagems",
+        "sequence": "UDRLU"
+    },
+    {
+        "name": "SOS Beacon",
+        "type": "Mission Stratagems",
+        "sequence": "UDRU"
+    },
+    {
+        "name": "Resupply",
+        "type": "Mission Stratagems",
+        "sequence": "DDUR"
+    },
+    {
+        "name": "NUX-223 Hellbomb",
+        "type": "Mission Stratagems",
+        "sequence": "DULDURDU"
+    },
+    {
+        "name": "SSSD Delivery",
+        "type": "Mission Stratagems",
+        "sequence": "DDDUU"
+    },
+    {
+        "name": "Seismic Probe",
+        "type": "Mission Stratagems",
+        "sequence": "UULRDD"
+    },
+    {
+        "name": "Upload Data",
+        "type": "Mission Stratagems",
+        "sequence": "LRUUU"
+    },
+    {
+        "name": "Eagle Rearm",
+        "type": "Mission Stratagems",
+        "sequence": "UULUR"
+    },
+    {
+        "name": "Illumination Flare",
+        "type": "Mission Stratagems",
+        "sequence": "RRLL"
+    },
+    {
+        "name": "SEAF Artillery",
+        "type": "Mission Stratagems",
+        "sequence": "RUUD"
+    },
+    {
+        "name": "Super Earth Flag",
+        "type": "Mission Stratagems",
+        "sequence": "DUDU"
+    },
+    {
+        "name": "E/MG-101 HMG Emplacement",
+        "type": "Defensive",
+        "sequence": "DULRRL"
+    },
+    {
+        "name": "FX-12 Shield Generator Relay",
+        "type": "Defensive",
+        "sequence": "DDLRLR"
+    },
+    {
+        "name": "A/ARC-3 Tesla Tower",
+        "type": "Defensive",
+        "sequence": "DURULR"
+    },
+    {
+        "name": "MD-6 Anti-Personnel Minefield",
+        "type": "Defensive",
+        "sequence": "DLUR"
+    },
+    {
+        "name": "MD-I4 Incendiary Mines",
+        "type": "Defensive",
+        "sequence": "DLLD"
+    },
+    {
+        "name": "A/MG-43 Machine Gun Sentry",
+        "type": "Defensive",
+        "sequence": "DURRU"
+    },
+    {
+        "name": "A/G-16 Gatling Sentry",
+        "type": "Defensive",
+        "sequence": "DURL"
+    },
+    {
+        "name": "A/M-12 Mortar Sentry",
+        "type": "Defensive",
+        "sequence": "DURRD"
+    },
+    {
+        "name": "A/AC-8 Autocannon Sentry",
+        "type": "Defensive",
+        "sequence": "DURULU"
+    },
+    {
+        "name": "A/MLS-4X Rocket Sentry",
+        "type": "Defensive",
+        "sequence": "DURRL"
+    },
+    {
+        "name": "A/M-23 EMS Mortar Sentry",
+        "type": "Defensive",
+        "sequence": "DURDR"
+    },
+    {
+        "name": "Orbital Gatling Barrage",
+        "type": "Offensive: Orbital",
+        "sequence": "RDLUU"
+    },
+    {
+        "name": "Orbital Airburst Strike",
+        "type": "Offensive: Orbital",
+        "sequence": "RRR"
+    },
+    {
+        "name": "Orbital 120MM HE Barrage",
+        "type": "Offensive: Orbital",
+        "sequence": "RRDLRD"
+    },
+    {
+        "name": "Orbital 380MM HE Barrage",
+        "type": "Offensive: Orbital",
+        "sequence": "RDUULDD"
+    },
+    {
+        "name": "Orbital Walking Barrage",
+        "type": "Offensive: Orbital",
+        "sequence": "RDRDRD"
+    },
+    {
+        "name": "Orbital Laser",
+        "type": "Offensive: Orbital",
+        "sequence": "RDURD"
+    },
+    {
+        "name": "Orbital Railcannon Strike",
+        "type": "Offensive: Orbital",
+        "sequence": "RUDDR"
+    },
+    {
+        "name": "Orbital Precision Strike",
+        "type": "Offensive: Orbital",
+        "sequence": "RRU"
+    },
+    {
+        "name": "Orbital Gas Strike",
+        "type": "Offensive: Orbital",
+        "sequence": "RRDR"
+    },
+    {
+        "name": "Orbital EMS Strike",
+        "type": "Offensive: Orbital",
+        "sequence": "RRLD"
+    },
+    {
+        "name": "Orbital Smoke Strike",
+        "type": "Offensive: Orbital",
+        "sequence": "RRDU"
+    },
+    {
+        "name": "Eagle Strafing Run",
+        "type": "Offensive: Eagle",
+        "sequence": "URR"
+    },
+    {
+        "name": "Eagle Airstrike",
+        "type": "Offensive: Eagle",
+        "sequence": "URDR"
+    },
+    {
+        "name": "Eagle Cluster Bomb",
+        "type": "Offensive: Eagle",
+        "sequence": "URDDR"
+    },
+    {
+        "name": "Eagle Napalm Airstrike",
+        "type": "Offensive: Eagle",
+        "sequence": "URDU"
+    },
+    {
+        "name": "Eagle Smoke Strike",
+        "type": "Offensive: Eagle",
+        "sequence": "URUD"
+    },
+    {
+        "name": "Eagle 110MM Rocket Pods",
+        "type": "Offensive: Eagle",
+        "sequence": "URUL"
+    },
+    {
+        "name": "Eagle 500kg Bomb",
+        "type": "Offensive: Eagle",
+        "sequence": "URDDD"
+    }
+]
